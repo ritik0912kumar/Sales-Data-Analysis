@@ -59,6 +59,11 @@ Analyze the Data: Explore the cleaned and transformed data to uncover insights.
 Visualize the Data: Import the data into Power BI and create interactive dashboards.
 Create Reports: Compile the analysis and visualizations into comprehensive reports.
 
+## Dashboard of Sales Data Analysis
+
+![Screenshot 2024-07-21 161737](https://github.com/user-attachments/assets/46be0ed4-2e07-48ea-90e6-0bbdfa69086f)
+
+
 
 ## Conclusion
 This project demonstrates how to efficiently analyze and visualize sales data using Excel and Power BI. By following the steps outlined above, you can gain valuable insights into sales performance and make data-driven business decisions.
